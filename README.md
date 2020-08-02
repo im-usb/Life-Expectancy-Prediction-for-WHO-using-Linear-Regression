@@ -1,2 +1,3 @@
 # Life-Expectancy-Prediction-for-WHO-using-Linear-Regression
-This is project on Prediction of Life Expectancy using Linear Regression model
+
+The aim is to build a prediction model that will predict the 'Life Expectancy' based on various features such as status of the country, GDP, Alcohol Consumption, Adult mortality rate etc. 
